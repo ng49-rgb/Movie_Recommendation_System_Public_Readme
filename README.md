@@ -34,7 +34,8 @@ Welcome to your next favorite way to discover movies! This project is a leap for
 
 ## 🖥️ Demo
 
-Curious? [See the system in action on LinkedIn](#) (demo link coming soon)!
+Curious? [See the system in action on LinkedIn]
+https://www.linkedin.com/posts/naveen-gupta-a446a9352_machinelearning-nlp-recommendationengine-activity-7355111540800323585-hTZU?utm_source=share&utm_medium=member_android&rcm=ACoAAFgGFJQBVrgaCuhjQrYIFgykubCug0id3RQ 
 
 ---
 
